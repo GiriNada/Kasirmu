@@ -1,4 +1,4 @@
-# Kasirmu 🧾
+# Kasirmu 
 
 Aplikasi kasir Android untuk usaha kuliner kecil, dibangun untuk **Warung Ndeso Monggot, Grobogan** guna menggantikan pencatatan transaksi manual di buku tulis.
 
